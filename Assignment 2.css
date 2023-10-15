@@ -1,0 +1,26 @@
+html{
+    background-color: aliceblue;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 515;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(128, 177, 31);
+}
+
+a{
+    color: black;
+}
+
+h2{
+    font-family: inherit;
+}
+
+section{text-align: center;
+}
+
+article{background-color: rgb(173, 207, 103);
+color: black;
+}
